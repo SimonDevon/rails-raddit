@@ -5,3 +5,5 @@ A simple rails app that I wrote to get used to learn some more about rails.
 I mainly used this brilliant tutorial to get going:
 
 https://mackenziechild.me/12-in-12/1/
+
+Hopefully I'll add more features to this soon!
